@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../CODES/button_debounce_vhd.vhd" \
+"../../../../../CODES/uart_controller_vhd.vhd" \
+"../../../../../CODES/uart_rx_vhd.vhd" \
+"../../../../../CODES/uart_tx_vhd.vhd" \
+"../../../../../CODES/uart_vhd.vhd" \
+"../../../../../CODES/uart_controller_tb_vhd.vhd" \
+
+# Do not sort compile order
+nosort

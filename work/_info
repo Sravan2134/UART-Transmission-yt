@@ -1,0 +1,76 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/srava/OneDrive/Desktop/VLSI
+Euart
+w1711799671
+Z0 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z1 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+Z2 dC:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT
+Z3 8C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/proj.vhd
+Z4 FC:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/proj.vhd
+l0
+L4 1
+VWhXnbID2Rb5]XaM;h[`Lb2
+!s100 4@6RJ5`^SM>D1PKA1gGEC0
+Z5 OV;C;2020.1;71
+32
+!s110 1711799680
+!i10b 1
+!s108 1711799680.000000
+Z6 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/proj.vhd|
+Z7 !s107 C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/proj.vhd|
+!i113 1
+Z8 o-work work -2002 -explicit
+Z9 tExplicit 1 CvgOpt 0
+Euart_simple
+Z10 w1711789558
+Z11 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R0
+R1
+!i122 0
+R2
+R3
+R4
+l0
+L56 1
+VYETo7oMFh4?Y?8BmMP<o]1
+!s100 [iBm[mU41NiNT356nBkXk1
+R5
+32
+Z12 !s110 1711789562
+!i10b 1
+Z13 !s108 1711789562.000000
+R6
+R7
+!i113 1
+R8
+R9
+Abehavioral
+R11
+R0
+R1
+DEx4 work 11 uart_simple 0 22 YETo7oMFh4?Y?8BmMP<o]1
+!i122 0
+l106
+L83 163
+Vl:i`UjC[z5lnLbRE=0;V?1
+!s100 Vflm29OlXIKeVMO4BH?b]3
+R5
+32
+R12
+!i10b 1
+R13
+R6
+R7
+!i113 1
+R8
+R9

@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/button_debounce_vhd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'button_debounce'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_controller_vhd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART_controller'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_rx_vhd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART_rx'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_tx_vhd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART_tx'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_vhd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_controller_tb_vhd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART_controller_tb'

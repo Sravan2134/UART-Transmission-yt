@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/srava/OneDrive/Desktop/VLSI
+Euart
+Z0 w1711893013
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dC:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES
+Z4 8C:/Users/srava/OneDrive/Desktop/VLSI/uart_design.vhd
+Z5 FC:/Users/srava/OneDrive/Desktop/VLSI/uart_design.vhd
+l0
+L4 1
+V6[=>;O^JkFTcG@E==75g?2
+!s100 ST9f1VF@8<`go[QNDPiOF1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1711893016
+!i10b 1
+Z8 !s108 1711893015.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/srava/OneDrive/Desktop/VLSI/uart_design.vhd|
+Z10 !s107 C:/Users/srava/OneDrive/Desktop/VLSI/uart_design.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 4 uart 0 22 6[=>;O^JkFTcG@E==75g?2
+!i122 0
+l38
+L23 125
+V?nQa1eK:OM1I@KY95?PVA1
+!s100 CL4mhWAFXPAo<E<;VhH1K0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Euart_demo
+Z13 w1711893083
+R1
+R2
+!i122 1
+R3
+Z14 8C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_demo.vhd
+Z15 FC:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_demo.vhd
+l0
+L3 1
+VVHJ@?J>fe6^m`T]nGXB003
+!s100 ?Le@GdeTVN^HE9KCK_aln0
+R6
+32
+Z16 !s110 1711893088
+!i10b 1
+Z17 !s108 1711893088.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_demo.vhd|
+Z19 !s107 C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_demo.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 uart_demo 0 22 VHJ@?J>fe6^m`T]nGXB003
+!i122 1
+l48
+L18 64
+VjHgPZ`k684<QbWI0jP?8W2
+!s100 ]HcnN6maA_8UiIYGkLHU@0
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Euart_demo_test_bench
+Z20 w1711893147
+Z21 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 2
+R3
+Z22 8C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_testbench.vhd
+Z23 FC:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_testbench.vhd
+l0
+L6 1
+V<Y]2<1inK^=<k>bkJQ1NR0
+!s100 al@2`6[o>@@;9md6k2`@M2
+R6
+32
+Z24 !s110 1711893151
+!i10b 1
+Z25 !s108 1711893151.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_testbench.vhd|
+!s107 C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_testbench.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 20 uart_demo_test_bench 0 22 <Y]2<1inK^=<k>bkJQ1NR0
+!i122 2
+l37
+L13 55
+VkDzd3i2;=oN@DiB@9GcPL2
+!s100 461ElCOYoz2R>edM`<gD80
+R6
+32
+R24
+!i10b 1
+R25
+R26
+Z27 !s107 C:/Users/srava/OneDrive/Desktop/SEM-6/19ECE383-VLSI Design Lab/PROJECT/CODES/uart_testbench.vhd|
+!i113 1
+R11
+R12
